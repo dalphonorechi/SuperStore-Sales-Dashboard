@@ -8,7 +8,7 @@ In this Data Analysis project, we’ll analyze a global SuperStore raw sales dat
 
 This high-level report shows the overall sales figures and elements at a glance.
 
-![Overview](overview.jpg)
+![Overview](overview.JPG)
 
 #### 2. Region Report.
 This report  analyses the performance of the store's sales based on different regions. 
