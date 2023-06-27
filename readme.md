@@ -13,12 +13,12 @@ This high-level report shows the overall sales figures and elements at a glance.
 #### 2. Region Report.
 This report  analyses the performance of the store's sales based on different regions. 
 
-![Region:west](west.jpg)
+![Region:west](west.JPG)
 
-![Region:east](east.jpg)
+![Region:east](east.JPG)
 
 #### 3. Sales  Person Performance Report.
 This report  analyses the performance of the store's sales person. 
  
-![Sales Performance](sales_person_performance.jpg)
+![Sales Performance](sales_person_performance.JPG)
 
