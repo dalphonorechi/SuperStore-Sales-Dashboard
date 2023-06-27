@@ -8,17 +8,17 @@ In this Data Analysis project, we’ll analyze a global SuperStore raw sales dat
 
 This high-level report shows the overall sales figures and elements at a glance.
 
-![Overview](overview.jpg)
+![Overview](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard/blob/main/overview.jpg)
 
 #### 2. Region Report.
 This report  analyses the performance of the store's sales based on different regions. 
 
-![Region:west](west.jpg)
+![Region:west](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard/blob/main/west.jpg)
 
-![Region:east](east.jpg)
+![Region:east](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard/blob/main/east.jpg)
 
 #### 3. Sales  Person Performance Report.
 This report  analyses the performance of the store's sales person. 
  
-![Sales Performance](sales_person_performance.jpg)
+![Sales Performance](https://github.com/dalphonorechi/SuperStore-Sales-Dashboard/blob/main/sales_person_performance.jpg)
 
